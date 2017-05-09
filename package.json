@@ -80,7 +80,7 @@
     "common-tags": "^1.3.0",
     "coveralls": "^2.11.16",
     "cp-file": "^4.1.1",
-    "d3-queue": "^3.0.3",
+    "d3-queue": "^3.0.7",
     "del": "^2.2.2",
     "eslint": "~3.19.0",
     "eslint-config-stylelint": "^6.0.0",
