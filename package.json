@@ -41,7 +41,7 @@
     "chalk": "^1.1.1",
     "colorguard": "^1.2.0",
     "cosmiconfig": "^2.1.1",
-    "debug": "^2.6.0",
+    "debug": "^2.6.7",
     "doiuse": "^2.4.1",
     "execall": "^1.0.0",
     "file-entry-cache": "^2.0.0",
